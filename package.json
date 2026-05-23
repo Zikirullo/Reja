@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "bu bizning birinchi loyihamiz",
   "main": "server.js",
-  "author": "bekzodali",
+  "author": "Levis",
   "license": "ISC",
   "scripts": {
     "start": "node server.js",
