@@ -4,7 +4,7 @@ const app = express();
 
 /* MongoDB choqirish */
 const clientDB = require("./server");
-const db = clientDB.db();
+const db = clientDB.db("test");
 const mongodb = require("mongodb");
 
 // 1.KIRISH CODE
